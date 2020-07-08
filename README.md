@@ -15,7 +15,7 @@ git clone https://github.com/AKSHAYKP007/React_App.git
 
 #### Running the app
 ```zsh
-cd React_App
+cd React_App/recipe
 npm install
 npm start
 ```
